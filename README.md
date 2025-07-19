@@ -40,7 +40,7 @@ My chosen API for this project is **RESTCountries API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+https://www.loom.com/share/0049b01a3a2a40b896c376ab6de7d92a?sid=1e4b472b-c962-40df-a7c8-39d924f1a48e
 
 GIF created with **Loom**
 
